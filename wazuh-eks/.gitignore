@@ -1,0 +1,26 @@
+# Terraform
+*.tfstate
+*.tfstate.backup
+*.tfvars
+.terraform/
+.terraform.lock.hcl
+
+# Crash logs
+crash.log
+
+# Local env files
+*.env
+*.pem
+*.key
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Wazuh specific (if any local build/output files)
+wazuh-eks/.terraform/providers/
