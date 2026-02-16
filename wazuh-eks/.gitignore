@@ -24,3 +24,5 @@ Thumbs.db
 
 # Wazuh specific (if any local build/output files)
 wazuh-eks/.terraform/providers/
+
+######nave
